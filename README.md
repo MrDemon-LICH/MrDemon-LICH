@@ -1,4 +1,4 @@
-<img align="center" width="400" src="https://dribbble.com/shots/15633275-Workspace/attachments/7424184?mode=media">
+<img align="center" width="400" src="https://dribbble.com/shots/8630894-Programmer-cat/attachments/888068?mode=media">
 
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
