@@ -1,4 +1,4 @@
-<a href="https://tenor.com/view/caps-speed-typing-oh-no-gif-12100567">Caps Speed Typing GIF</a>
+    <img align="right" alt="Coding" width="400" src="https://tenor.com/embed.js">
 
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
