@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="400" src="https://dribbble.com/shots/15633275-Workspace/attachments/7424184?mode=media">
+<img align="center" width="400" src="https://dribbble.com/shots/15633275-Workspace/attachments/7424184?mode=media">
+
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
 - 🌱 I'm currently learning about code
