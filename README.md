@@ -1,4 +1,3 @@
-
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
 - 🌱 I'm currently learning about code
