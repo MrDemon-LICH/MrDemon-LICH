@@ -9,7 +9,6 @@
 # Projects
 - LichRom for A54
 # Contact
-- 💬 [Telegram](https://t.me/TOM_a54)
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" height="20" width="20"> [Telegram](https://t.me/TOM_a54)
 
 <!---
