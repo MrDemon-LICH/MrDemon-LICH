@@ -1,3 +1,4 @@
+<div class="tenor-gif-embed" data-postid="12100567" data-share-method="host" data-aspect-ratio="1.805" data-width="100%"><a href="https://tenor.com/view/caps-speed-typing-oh-no-gif-12100567">Caps Speed Typing GIF</a>from <a href="https://tenor.com/search/caps-gifs">Caps GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
 - 🌱 I'm currently learning about code
