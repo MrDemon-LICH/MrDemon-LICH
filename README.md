@@ -1,3 +1,4 @@
+<img rsc="https://t.me/c/1724430430/1086/1693">
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
 - 🌱 I'm currently learning about code
