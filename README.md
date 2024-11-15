@@ -10,7 +10,7 @@
 - LichRom for A54
 # Contact
 - 💬 [Telegram](https://t.me/TOM_a54)
-- <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png">
+- <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" weith="20" higth="10">
 
 <!---
 MrDemon-LICH/MrDemon-LICH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
