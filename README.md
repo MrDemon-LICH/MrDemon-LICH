@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@2.0.8/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/113f5b6e-f0db-444c-a0d4-92a200a9304b/mcYFCDuAZz.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
