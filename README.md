@@ -1,5 +1,3 @@
-<img align="right" width="400" src="https://tenor.com/embed.js">
-
 # Hi, I’m MrDemon-LICH 👋
 - 👀 I'm interested in programming -
 - 🌱 I'm currently learning about code
