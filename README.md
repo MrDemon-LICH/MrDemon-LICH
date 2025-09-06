@@ -1,5 +1,3 @@
-<img src="https://github.com/MrDemon-LICH/Resouces_for_repositorys/blob/main/image_processing20191129-26734-6lp0s5.gif">
-
 # <p align="center">Hi, I’m MrDemon 👋</p>
 
 - 👀 I'm interested in programming -
