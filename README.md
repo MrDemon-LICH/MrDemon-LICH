@@ -5,7 +5,7 @@
 - 😄 I like to help in any way I can
 - ⚡ Fun fact: I'm an Economics student
 ## Projects
-- LichRom for A54
+- LichUI for A54
 ## Contact
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" height="20" width="20"> [Telegram](https://t.me/TOM_a54)
 
